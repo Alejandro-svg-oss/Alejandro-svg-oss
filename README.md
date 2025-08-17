@@ -1,9 +1,9 @@
 # Hi, I'm Alejandro 👋
 
-I'm a Software Engineering student at Universidad Francisco Gavidia with a passion for blockchain, Web3, and AI automation. I specialize in building scalable solutions using C#, Python, Solidity, and React.js. I’ve developed projects ranging from NFT platforms to AI-driven content automation systems, and I’m always eager to tackle new challenges.
+I'm a Developer passionate about blockchain, Web3, and AI automation. I specialize in building scalable solutions using Java, C\#, Python, Solidity, and React.js. I've developed projects ranging from NFT platforms to AI-driven content automation systems, always eager to tackle new challenges and deliver innovative results. In addition to my professional experience, I am pursuing a Bachelor's Degree in Software Engineering at Universidad Francisco Gavidia.
 
 ## 🔧 Skills
-- **Languages:** C#, Python, JavaScript, Solidity, HTML, CSS
+- **Languages:** Java, C#, Python, JavaScript, Solidity, HTML, CSS
 - **Frameworks & Tools:** .NET, React.js, Node.js, Web Services API, Metaplex
 - **Blockchain:** Ethereum, Bitcoin, XRP, Decentralized Applications (DApps), Web3
 - **AI & Automation:** Generative AI, Large Language Models (LLM), Python scripting
